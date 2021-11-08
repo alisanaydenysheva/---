@@ -20,7 +20,7 @@ int main()
 	cout << "Открыт файл";
 	cout << filename << endl;
 
-	Mat img = imread(filename, 1);
+	Mat img = imread("puppy.jpg", 1);
 	namedWindow("Исходное изображение", WINDOW_AUTOSIZE);
 	imshow("Исходное изображение", img);
 
