@@ -4,4 +4,4 @@ https://docs.google.com/presentation/d/17YdUQJrXn2dPckjSeDarp3v6mYDyaHhsLKEFe0Gp
 
 Журнал с выполнением
 
-https://docs.google.com/spreadsheets/d/1wuZ6X4jePxzbLe6ETv6vr80eSKnX7OElX4kG34vSuM0/edit#gid=1604356650
+https://docs.google.com/spreadsheets/d/1E97mF2Z5Yr-YBHZbKlfiQFnVlfq9CGhpl5XqJ7FoH3I/edit#gid=67700862
