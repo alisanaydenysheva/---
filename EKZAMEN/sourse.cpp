@@ -16,9 +16,9 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	char filename[80];
 	cout << "Enter file name" << endl;
-	cout << "Obama.jpg" << endl;
-	cout << "Putin.jpg" << endl;
-	cout << "Rock.jpg" << endl;
+	cout << "abv.jpg" << endl;
+	cout << "gde.jpg" << endl;
+	cout << "jzy.jpg" << endl;
 
 	cin.getline(filename, 80);
 	cout << "Open file: ";
